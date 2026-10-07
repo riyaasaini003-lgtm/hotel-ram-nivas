@@ -486,7 +486,7 @@ export default function Home() {
 
             <div className="aspect-[4/3] overflow-hidden rounded-2xl">
               <img
-                src="/images/property/property-1.jpg"
+                src="/images/property/property-1.png"
                 alt="Hotel Ram Nivas property"
                 className="h-full w-full object-cover"
               />
@@ -494,7 +494,7 @@ export default function Home() {
 
             <div className="aspect-[4/3] overflow-hidden rounded-2xl">
               <img
-                src="/images/dining/dining-1.jpg"
+                src="/images/dining/dining-1.png"
                 alt="Dining at Hotel Ram Nivas"
                 className="h-full w-full object-cover"
               />
@@ -502,7 +502,7 @@ export default function Home() {
 
             <div className="aspect-[4/3] overflow-hidden rounded-2xl">
               <img
-                src="/images/destinations/udaipur-1.jpg"
+                src="/images/destinations/udaipur-1.png"
                 alt="Udaipur"
                 className="h-full w-full object-cover"
               />
