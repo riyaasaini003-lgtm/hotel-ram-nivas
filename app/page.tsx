@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const PHONE = "917982187090";
+const PHONE = "919782187090";
 
 const WA = `https://wa.me/${PHONE}?text=${encodeURIComponent(
   "Hi Hotel Ram Nivas, I would like to check room availability."

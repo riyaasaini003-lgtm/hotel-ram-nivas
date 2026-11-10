@@ -170,7 +170,7 @@ export default function LocationPage() {
             </a>
 
             <a
-              href="https://wa.me/917982187090?text=Hi%20Hotel%20Ram%20Nivas%2C%20I%20would%20like%20to%20check%20room%20availability."
+              href="https://wa.me/9197982187090?text=Hi%20Hotel%20Ram%20Nivas%2C%20I%20would%20like%20to%20check%20room%20availability."
               target="_blank"
               rel="noreferrer"
               className="rounded-xl bg-[#1f7a43] px-6 py-4 font-semibold text-white"
